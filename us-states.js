@@ -846,7 +846,7 @@ var statesData = {
     "id": "21",
     "properties": {
       "name": "Kentucky",
-      "status": 0,
+      "status": 2,
     },
     "geometry": {
       "type": "Polygon",
